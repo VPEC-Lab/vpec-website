@@ -4,6 +4,7 @@ image: images/photo.jpg
 role: pi
 aliases:
   - Tim Sweeny
+  - Timothy D. Sweeny
 links:
   home-page: https://timsweeny.com
   orcid: 0000-0002-5602-3215
