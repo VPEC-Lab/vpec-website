@@ -436,3 +436,16 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3758/s13414-017-1381-y
+  title: Object-substitution masking weakens but does not eliminate shape interactions
+  authors:
+  - Timothy D. Sweeny
+  - "Larissa C. D\u2019Abreu"
+  - Elric Elias
+  - Lauren Padama
+  publisher: Attention, Perception, &amp; Psychophysics
+  date: '2017-07-17'
+  link: https://doi.org/gbzdwf
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-017-1381-y/MediaObjects/13414_2017_1381_Fig1_HTML.gif?as=webp
+  plugin: sources.py
+  file: sources.yaml
