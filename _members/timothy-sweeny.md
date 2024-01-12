@@ -3,7 +3,6 @@ name: Timothy Daniel Sweeny
 image: images/photo.jpg
 role: pi
 aliases:
-  - Tim Sweeny
   - Timothy D. Sweeny
 links:
   home-page: https://timsweeny.com
