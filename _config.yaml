@@ -1,18 +1,19 @@
 # site properties and page defaults
-title: anushanandd
+title: VPEC Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: In the Visual Perception, Emotion & Cognition (VPEC) Laboratory, we study visual perception. Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.
+logo-text: VPEC Lab
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@anushanandd.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: anushanandd
-  twitter: anushanandd
-  youtube: anushanandd
+  email: timothy.sweeny@du.edu
+  orcid: 0000-0002-5602-3215
+  google-scholar: iEE5bbkAAAAJ
+  github: VPEC-Lab
+#  twitter: anushanandd
+#  youtube: anushanandd
 
 ### jekyll settings
 
