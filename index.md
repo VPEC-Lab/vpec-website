@@ -1,9 +1,9 @@
 ---
 ---
 
-# anushanandd's Website
+# Visual Perception, Emotion & Cognition (VPEC) Laboratory
 
-An engaging 1-3 sentence description of your lab.
+Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.
 
 {% include section.html %}
 
