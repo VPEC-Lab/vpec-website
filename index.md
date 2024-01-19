@@ -1,15 +1,13 @@
 ---
 ---
 
-# Visual Perception, Emotion & Cognition (VPEC) Laboratory
+# Visual Perception, Emotion & Cognition Laboratory
 
-Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.
+Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We employ psychophysics and modeling to understand how basic visual processes allow people to see and understand both simple and complex patterns like shapes, facial expressions and gaze. Our goal is to use vision science to answer core questions about the human mind and the nature of visual awareness while making an impact on multiple disciplines within psychology. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.
 
 {% include section.html %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -17,7 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -32,15 +29,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -57,15 +51,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
