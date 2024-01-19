@@ -8,11 +8,15 @@ Our primary goal is to understand how basic neural and cognitive mechanisms shap
 {% include section.html %}
 
 
-{% include card.html image="images/icon.png" title="Research" include button.html
+{% include card.html image="images/icon.png" title="Research" 
+{%
+  include button.html
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
-  flip=true %}
+  flip=true 
+%}
+%}
 
 
 {% capture text %}
