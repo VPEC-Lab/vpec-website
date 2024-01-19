@@ -13,6 +13,14 @@ Our primary goal is to understand how basic neural and cognitive mechanisms shap
   flip=true
 %}
 
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+
 ## Areas of Research
 
 {% capture text %}
@@ -53,66 +61,3 @@ What is visual experience like in childhood? Many perceptual abilities take year
 Yet, just like adults, children must navigate crowded and cluttered environments. Is the developing visual system equipped with any mechanisms for seeing many things at once? How does the ability to see the gist develop from pre-school age to adulthood? How do children perceive complex social cues like gaze and facial expression?
 {% endcapture%}
 {% include feature.html image="images/icon.png" title="Perceptual Development" text=text%}
-
-
-{% capture text %}
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
