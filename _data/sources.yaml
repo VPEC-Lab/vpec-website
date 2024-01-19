@@ -16,11 +16,6 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
 - id: doi:10.3758/s13414-017-1381-y
   image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-017-1381-y/MediaObjects/13414_2017_1381_Fig1_HTML.gif?as=webp
+  link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_app_2017.pdf
