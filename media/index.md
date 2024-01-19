@@ -5,7 +5,7 @@ nav:
   tooltip: Lab pictures and events
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Media
+# {% include icon.html icon="fa-solid fa-photo-film" %}Media
 
 {% capture col1 %}
 
