@@ -7,8 +7,6 @@ Our primary goal is to understand how basic neural and cognitive mechanisms shap
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
