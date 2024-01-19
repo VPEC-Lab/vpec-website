@@ -1,14 +1,14 @@
 ---
 ---
 
-$logo: 40px;
+$logo: 30px;
 $big-padding: 20px;
 $collapse: 700px;
 $sticky: true;
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -37,13 +37,13 @@ header a {
 
 .title {
   display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: left;
+  text-align: center;
 }
 
 // main title
