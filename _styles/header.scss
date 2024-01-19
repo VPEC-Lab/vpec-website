@@ -1,7 +1,6 @@
 ---
 ---
 
-$logo-big: 40px;
 $logo: 40px;
 $big-padding: 20px;
 $collapse: 700px;
@@ -26,16 +25,6 @@ header {
 header a {
   color: var(--text);
   text-decoration: none;
-}
-
-.home {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 10px;
-  flex-basis: 0;
-  flex-grow: 1;
-  max-width: 100%;
 }
 
 .logo {
@@ -114,7 +103,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
+header {
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
@@ -131,39 +120,5 @@ header:not([data-big]) {
       flex-direction: column;
       width: 100%;
     }
-  }
-}
-
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  padding: $big-padding 20px;
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: row;
-    flex-grow: 0;
-  }
-
-  .logo {
-    height: $logo-big;
-  }
-
-  .title {
-    flex-direction: row;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title > *:first-child {
-    font-size: var(--xxl);
-  }
-
-  .title > *:last-child {
-    font-size: var(--large);
   }
 }
