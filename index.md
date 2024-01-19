@@ -5,19 +5,12 @@
 
 Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We employ psychophysics and modeling to understand how basic visual processes allow people to see and understand both simple and complex patterns like shapes, facial expressions and gaze. Our goal is to use vision science to answer core questions about the human mind and the nature of visual awareness while making an impact on multiple disciplines within psychology. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.
 
-{% include section.html %}
+## Areas of Research
 
-
-{% include card.html image="images/icon.png" title="Research" 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true 
-%}
-%}
-
+{% capture text %}
+Billions of bits of information arrive at the retina every moment, but only a fraction of this information reaches awareness. That isn't to say, however, that unseen information is lost or unimportant. Many visual processes continue even without awareness, influencing behavior immediately, or even days later. Which visual processes require awareness and which do not? How do different types of visual masking work, and what do their similarities and differences tell us about general mechanisms of visual awareness, if there are any? Determining the perceptual processes that do and do not require awareness may reveal the purpose of conscious vision.
+{% endcapture%}
+{% include feature.html image="images/icon.png" title="Awareness/Consciousness" text=text%}
 
 {% capture text %}
 
