@@ -1,6 +1,6 @@
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -17,7 +17,7 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 30px;
 }
 
 .logo > * {
@@ -26,13 +26,13 @@ header a {
 
 .title {
   display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: left;
+  text-align: center;
 }
 
 .title > *:first-child {
