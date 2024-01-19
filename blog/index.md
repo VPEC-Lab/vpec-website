@@ -1,21 +1,30 @@
 ---
-title: Blog
+title: Media
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Lab pictures and events
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture col1 %}
 
-{% include section.html %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Our Lab"
+%}
 
-{% include search-box.html %}
+{% endcapture %}
 
-{% include tags.html tags=site.tags %}
+{% capture col2 %}
 
-{% include search-info.html %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Community Outreach"
+%}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
