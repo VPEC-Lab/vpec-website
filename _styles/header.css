@@ -16,16 +16,6 @@ header a {
   text-decoration: none;
 }
 
-.home {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 10px;
-  flex-basis: 0;
-  flex-grow: 1;
-  max-width: 100%;
-}
-
 .logo {
   height: 40px;
 }
@@ -101,46 +91,20 @@ nav > a:hover {
 }
 
 @media (max-width: 700px) {
-  header:not([data-big]) {
+  header {
     justify-content: flex-end;
   }
-  header:not([data-big]) .nav-toggle {
+  header .nav-toggle {
     display: flex;
   }
-  header:not([data-big]) .nav-toggle:not(:checked) + nav {
+  header .nav-toggle:not(:checked) + nav {
     display: none;
   }
-  header:not([data-big]) nav {
+  header nav {
     align-items: flex-end;
     flex-direction: column;
     width: 100%;
   }
-}
-
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  padding: 20px 20px;
-  top: unset;
-}
-header[data-big] .home {
-  flex-direction: row;
-  flex-grow: 0;
-}
-header[data-big] .logo {
-  height: 40px;
-}
-header[data-big] .title {
-  flex-direction: row;
-  align-items: center;
-  text-align: center;
-}
-header[data-big] .title > *:first-child {
-  font-size: var(--xxl);
-}
-header[data-big] .title > *:last-child {
-  font-size: var(--large);
 }
 
 /*# sourceMappingURL=header.css.map */
