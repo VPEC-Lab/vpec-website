@@ -1,7 +1,7 @@
 ---
 title: Facilities
 nav:
-  order: 4
+  order: 5
   tooltip: Lab pictures and tools
 ---
 
