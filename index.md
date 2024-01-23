@@ -7,7 +7,7 @@ Our primary goal is to understand how basic neural and cognitive mechanisms shap
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
