@@ -1,7 +1,7 @@
 ---
 name: Simon Ruland
-image: images/photo.jpg
-role: undergrad
+image: images/ruland-simon.jpg
+role: ug
 aliases:
 links:
 ---
