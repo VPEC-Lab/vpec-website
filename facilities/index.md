@@ -1,11 +1,11 @@
 ---
-title: Lab
+title: Facilities
 nav:
   order: 4
   tooltip: Lab pictures and tools
 ---
 
-# {% include icon.html icon="fa-solid fa-photo-film" %}Media
+# {% include icon.html icon="fa-solid fa-photo-film" %}Facilities
 
 {% capture col1 %}
 
