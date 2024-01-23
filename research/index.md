@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## All
-
 {%
   include button.html
   link="research"
