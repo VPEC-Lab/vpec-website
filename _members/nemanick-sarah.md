@@ -1,7 +1,7 @@
 ---
 name: Sarah Nemanick
-image: images/photo.jpg
-role: undergrad
+image: images/nemanick-sarah.jpg
+role: ug
 aliases:
 links:
 ---
