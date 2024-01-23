@@ -1,7 +1,7 @@
 ---
 name: Sam Allen 
-image: images/photo.jpg
-role: undergrad
+image: images/allen-sam.jpg
+role: ug
 aliases:
 links:
 ---
