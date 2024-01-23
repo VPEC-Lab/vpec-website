@@ -1,8 +1,8 @@
 ---
-title: Media
+title: Lab
 nav:
   order: 4
-  tooltip: Lab pictures and events
+  tooltip: Lab pictures and tools
 ---
 
 # {% include icon.html icon="fa-solid fa-photo-film" %}Media
@@ -22,7 +22,7 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Community Outreach"
+  caption="Eyetracker"
 %}
 
 {% endcapture %}
