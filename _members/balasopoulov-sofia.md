@@ -1,7 +1,7 @@
 ---
 name: Sofia Balasopoulov 
-image: images/photo.jpg
-role: undergrad
+image: images/balasopoulov-sofia.jpg
+role: ug
 aliases:
 links:
 ---
