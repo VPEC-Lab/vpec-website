@@ -18,7 +18,7 @@ grad:
   icon: fa-solid fa-graduation-cap
   description: Graduate Student
   
-undergrad:
+ug:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
