@@ -16,11 +16,11 @@ phd:
 
 grad:
   icon: fa-solid fa-graduation-cap
-  description: Graduate Researcher
+  description: Graduate Student
   
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Research Assistant
+  description: Undergraduate Student
 
 programmer:
   icon: fa-solid fa-code
