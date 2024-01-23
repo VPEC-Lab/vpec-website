@@ -1,7 +1,7 @@
 ---
 name: Anush Anand
-image: images/photo.jpg
-role: undergrad
+image: images/anand-anush.jpg
+role: ug
 aliases:
 links:
 ---
