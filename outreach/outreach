@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Outreach | VPEC Lab</title>
+
+<link rel="icon" href="/vpec-lab.github.io/images/icon.png">
+
+<meta name="title" content="Outreach">
+<meta name="description" content="In the Visual Perception, Emotion & Cognition (VPEC) Laboratory, we study visual perception. Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.">
+
+<meta property="og:title" content="Outreach">
+<meta property="og:site_title" content="VPEC Lab">
+<meta property="og:description" content="In the Visual Perception, Emotion & Cognition (VPEC) Laboratory, we study visual perception. Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.">
+<meta property="og:url" content="">
+<meta property="og:image" content="/vpec-lab.github.io/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Outreach">
+<meta property="twitter:description" content="In the Visual Perception, Emotion & Cognition (VPEC) Laboratory, we study visual perception. Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.">
+<meta property="twitter:url" content="">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/vpec-lab.github.io/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Outreach",
+    "description": "In the Visual Perception, Emotion & Cognition (VPEC) Laboratory, we study visual perception. Our primary goal is to understand how basic neural and cognitive mechanisms shape what people see and hear. We also collaborate to examine the role of perceptual processes in clinical, affective and social outcomes.",
+    "headline": "Outreach",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/vpec-lab.github.io/images/icon.png" }
+    },
+    "url": ""
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/vpec-lab.github.io/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link
+  href="https://use.fontawesome.com/releases/v6.3.0/css/all.css"
+  rel="preload"
+  as="style"
+  onload="this.onload = null; this.rel = 'stylesheet';"
+>
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link 
+  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
+  rel="stylesheet"
+/>
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/-theme.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/alert.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/all.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/anchor.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/background.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/body.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/bold.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/button.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/card.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/checkbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/citation.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/code.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/cols.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/dark-toggle.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/feature.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/figure.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/float.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/font.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/footer.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/form.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/grid.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/header.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/heading.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/highlight.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/icon.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/image.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/link.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/list.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/main.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/paragraph.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/portrait.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/post-excerpt.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/post-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/post-nav.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/quote.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/rule.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/search-box.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/search-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/section.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/table.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/tags.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/textbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/tooltip.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/vpec-lab.github.io/_styles/util.css"
+      rel="stylesheet"
+    />
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/vpec-lab.github.io/_scripts/anchors.js"></script>
+
+  <script src="/vpec-lab.github.io/_scripts/dark-mode.js"></script>
+
+  <script src="/vpec-lab.github.io/_scripts/fetch-tags.js"></script>
+
+  <script src="/vpec-lab.github.io/_scripts/search.js"></script>
+
+  <script src="/vpec-lab.github.io/_scripts/site-search.js"></script>
+
+  <script src="/vpec-lab.github.io/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header
+  class="background"
+  style="--image: url('/vpec-lab.github.io/images/background.jpg')"
+  
+    data-dark="true"
+  
+  
+>
+  <a href="/vpec-lab.github.io/" class="home">
+    
+      <span class="logo">
+        
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s" />
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s" />
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s" />
+  </g>
+  <path
+    fill="#38bdf8"
+    d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "
+  />
+  <path
+    fill="#bae6fd"
+    d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "
+  />
+  <path
+    fill="none"
+    stroke="currentColor"
+    stroke-width="5"
+    d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "
+  />
+</svg>
+
+        
+      </span>
+    
+    
+      <span class="title" data-tooltip="Home">
+        
+          <span>VPEC Lab</span>
+        
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a
+          href="/vpec-lab.github.io/research/"
+          data-tooltip="Areas of research"
+        >
+          Research
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/publications/"
+          data-tooltip="Published works"
+        >
+          Publications
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/projects/"
+          data-tooltip="Software, datasets, and more"
+        >
+          Projects
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/facilities/"
+          data-tooltip="Lab pictures and tools"
+        >
+          Facilities
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/contact/"
+          data-tooltip="Email, address, and location"
+        >
+          Contact
+        </a>
+      
+    
+      
+        <a
+          href="/vpec-lab.github.io/outreach/"
+          data-tooltip="Community outreach and events"
+        >
+          Outreach
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - wrap each table in div to allow for scrolling
+  - filter out blank sections
+-->
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
+    # <i class="icon fa-solid fa-person-chalkboard"></i>Outreach
+
+The VPEC Lab gives demonstrations of vision science to elementary, middle-school and high-school students. Our director, lab members and a team of graduate student volunteers from the University of Denver will visit your school and present hands-on, cutting-edge demonstrations of visual illusions and neuroscience research.
+
+The purpose of this outreach program is not just to entertain, but also to stimulate scientific curiosity, especially among science-averse students, showing them that their curiosities and interests are not only shared by scientists, but are scientific in nature.
+
+
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="/vpec-lab.github.io/timothy.sweeny@du.edu"
+      
+      data-style=""
+      
+        data-flip
+      
+      aria-label="fa-solid fa-arrow-right"
+    >
+      <i class="icon fa-solid fa-arrow-right"></i>
+      
+        <span>Schedule a visit</span>
+      
+    </a>
+  </div>
+
+
+
+
+
+
+
+<div class="cols" style="--cols: 2">
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="Our programs give students the opportunity to see firsthand what scientists do">
+    <img src="/vpec-lab.github.io/images/photo.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="Our programs give students the opportunity to see firsthand what scientists do" loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Our programs give students the opportunity to see firsthand what scientists do
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="We conduct demonstrations showing students what it's like to have total colorblindness">
+    <img src="/vpec-lab.github.io/images/photo.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="We conduct demonstrations showing students what it's like to have total colorblindness" loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      We conduct demonstrations showing students what it’s like to have total colorblindness
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="We help students understand that much of perception is rooted in the brain, not just the eyes.">
+    <img src="/vpec-lab.github.io/images/photo.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="We help students understand that much of perception is rooted in the brain, not just the eyes." loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      We help students understand that much of perception is rooted in the brain, not just the eyes.
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="We also offer demonstrations of other visual illusions and neuroscience research">
+    <img src="/vpec-lab.github.io/images/photo.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="We also offer demonstrations of other visual illusions and neuroscience research" loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      We also offer demonstrations of other visual illusions and neuroscience research
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+</div>
+  </section>
+
+
+    </main>
+    
+
+
+<footer
+  class="background"
+  style="--image: url('/vpec-lab.github.io/images/background.jpg')"
+  
+    data-dark="true"
+  
+  data-size="wide"
+>
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="mailto:timothy.sweeny@du.edu"
+      
+        data-tooltip="Email"
+      
+      data-style="bare"
+      
+      aria-label="Email"
+    >
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://orcid.org/0000-0002-5602-3215"
+      
+        data-tooltip="ORCID"
+      
+      data-style="bare"
+      
+      aria-label="ORCID"
+    >
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://scholar.google.com/citations?user=iEE5bbkAAAAJ"
+      
+        data-tooltip="Google Scholar"
+      
+      data-style="bare"
+      
+      aria-label="Google Scholar"
+    >
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://github.com/VPEC-Lab"
+      
+        data-tooltip="GitHub"
+      
+      data-style="bare"
+      
+      aria-label="GitHub"
+    >
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    &copy; 2024
+    VPEC Lab
+    &nbsp; | &nbsp; University of Denver
+  </div>
+
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
+</footer>
+
+  </body>
+</html>
