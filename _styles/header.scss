@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo: 10px;
+$logo: 20px;
 $big-padding: 20px;
 $collapse: 700px;
 $sticky: true;
@@ -29,10 +29,6 @@ header a {
 
 .logo {
   height: $logo;
-}
-
-.logo > * {
-  height: 100%;
 }
 
 .title {
