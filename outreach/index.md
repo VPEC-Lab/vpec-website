@@ -22,11 +22,6 @@ The purpose of this outreach program is not just to entertain, but also to stimu
 ## More
 
 {% capture text %}
-Billions of bits of information arrive at the retina every moment, but only a fraction of this information reaches awareness. Which visual processes require awareness and which do not? How do different types of visual masking work, and what do their similarities and differences tell us about general mechanisms of visual awareness, if there are any? Determining the perceptual processes that do and do not require awareness may reveal the purpose of conscious vision.
-{% endcapture%}
-{% include feature.html image="https://images.theconversation.com/files/411896/original/file-20210719-25-191cj1c.jpeg?ixlib=rb-1.1.0&rect=197%2C188%2C5604%2C3799&q=45&auto=format&w=926&fit=clip" title="Awareness/Consciousness" text=text%}
-
-{% capture text %}
 Our programs give students the opportunity to see firsthand what scientists do—an experience that is often available only in college.
 {% endcapture%}
 {% include feature.html image="images/photo.jpg" text=text%}
