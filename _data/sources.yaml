@@ -17,7 +17,7 @@
   repo: greenelab/meta-review
 
 - id: doi:10.1371/journal.pone.0275281
-  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281
+  link: href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281"
   
 - id: doi:10.1038/s41562-022-01390-y
   link: https://osf.io/preprints/psyarxiv/rfgy3
