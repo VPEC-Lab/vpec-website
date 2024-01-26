@@ -22,19 +22,19 @@ The purpose of this outreach program is not just to entertain, but also to stimu
 {% capture text %}
 Our programs give students the opportunity to see firsthand what scientists do—an experience that is often available only in college.
 {% endcapture%}
-{% include figure.html image="images/photo.jpg" %}
+{% include feature.html image="images/photo.jpg" %}
 
 {% capture text %}
 We conduct demonstrations showing students what it's like to have total colorblindness, as this photograph demonstrates.
 {% endcapture%}
-{% include figure.html image="images/photo.jpg" flip=true%}
+{% include feature.html image="images/photo.jpg" flip=true%}
 
 {% capture text %}
 We'll help your students to understand fascinating discoveries without being overly technical, highlighting that much of perception is rooted in the activity of the brain, not just the eyes.
 {% endcapture%}
-{% include figure.html image="images/photo.jpg" %}
+{% include feature.html image="images/photo.jpg" %}
 
 {% capture text %}
 We also offer demonstrations of other visual illusions and neuroscience research, including demonstrations like these on motion perception.
 {% endcapture%}
-{% include figure.html image="images/photo.jpg" flip=true %}
+{% include feature.html image="images/photo.jpg" flip=true %}
