@@ -31,7 +31,6 @@
         a.innerHTML = tag;
         a.href = `${link}?search="tag: ${tag}"`;
         a.dataset.tooltip = `Show items with the tag "${tag}"`;
-        a.target = "_blank"; // open link in a new tab
         row.append(a);
       }
 
