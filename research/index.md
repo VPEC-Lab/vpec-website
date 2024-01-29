@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+## Areas of Research
+
 {% capture text %}
 Billions of bits of information arrive at the retina every moment, but only a fraction of this information reaches awareness. Which visual processes require awareness and which do not? How do different types of visual masking work, and what do their similarities and differences tell us about general mechanisms of visual awareness, if there are any? Determining the perceptual processes that do and do not require awareness may reveal the purpose of conscious vision.
 {% endcapture%}
