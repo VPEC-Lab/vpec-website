@@ -10,10 +10,10 @@
   - Timothy D. Sweeny
   publisher: 'Journal of Experimental Psychology: General'
   date: '2021-09-01'
-  link: https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2955&context=etd
+  link: https://doi.org/gnmwxk
   orcid: 0000-0002-5602-3215
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3758/s13414-020-02109-9
   title: Ensemble perception includes information from multiple spatial scales
   authors:
