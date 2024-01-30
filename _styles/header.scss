@@ -29,6 +29,7 @@ header a {
 
 .logo {
   height: $logo;
+  margin-right: 15px
 }
 
 .title {
@@ -93,7 +94,7 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 nav > a:hover {
