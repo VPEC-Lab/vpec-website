@@ -1,6 +1,6 @@
 ---
 name: Timothy Daniel Sweeny
-image: images/photo.jpg
+image: images/sweeny-tim.jpg
 role: pi
 aliases:
   - Timothy D. Sweeny
