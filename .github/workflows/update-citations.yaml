@@ -55,7 +55,7 @@ jobs:
 
       - name: Check if citations changed
         id: changed
-        uses: tj-actions/verify-changed-files@v17.1
+        uses: tj-actions/verify-changed-files@v17.1.0
         with:
           files: |
             _data/citations.yaml
