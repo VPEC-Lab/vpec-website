@@ -51,3 +51,11 @@ This segmentation is really important when viewing many things at once, allowing
 What is visual experience like in childhood? Many perceptual abilities take years to develop, including distinguishing objects in time and space, filtering out distracting visual information and even remembering what has been seen. Yet, just like adults, children must navigate crowded and cluttered environments. Is the developing visual system equipped with any mechanisms for seeing many things at once? How does the ability to see the gist develop from pre-school age to adulthood? How do children perceive complex social cues like gaze and facial expression?
 {% endcapture%}
 {% include feature.html image="https://images.unsplash.com/photo-1495921258158-db2d5a45cb02?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Perceptual Development" text=text %}
+
+## Sponsors
+
+{% include card.html image="images/NSF-logo.png" link="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141313&HistoricalAwards=false" title="National Science Foundation" description="The Angry Crowd Bias: Social, Cognitive, and Perceptual Mechanisms" tooltip="See our award" %}
+
+{% include card.html image="images/NIH-logo.png" link="https://reporter.nih.gov/search/7be6lsaN3EWx4SLa_f2Nrw/project-details/10438003" title="National Institutes of Health" description="Mechanisms underlying reading avoidance in children with reading difficulties" tooltip="See our project" %}
+
+{% include card.html image="images/DU-logo.png" link="https://liberalarts.du.edu/psychology" title="University of Denver" subtitle="" description="Department of Psychology" tooltip="" %}
