@@ -5,7 +5,7 @@ nav:
   tooltip: Areas of research
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} Research
 
 ## Areas of Research
 
