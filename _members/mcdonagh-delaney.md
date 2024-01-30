@@ -1,6 +1,6 @@
 ---
 name: Delaney McDonagh
-image: images/photo.jpg
+image: images/mcdonagh-delaney.jpg
 role: grad
 aliases:
 links:
