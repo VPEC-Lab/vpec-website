@@ -14,6 +14,7 @@ nav:
 
 {% include list.html data="citations" component="citation" %}
 
+
 ## Sponsors
 
 {% include card.html image="images/NSF-logo.png" link="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141313&HistoricalAwards=false" title="National Science Foundation" description="The Angry Crowd Bias: Social, Cognitive, and Perceptual Mechanisms" tooltip="See our award" %}
