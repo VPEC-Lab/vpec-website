@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo: 20px;
+$logo: 10px;
 $big-padding: 20px;
 $collapse: 700px;
 $sticky: true;
@@ -93,6 +93,7 @@ nav {
 
 nav > a {
   padding: 5px;
+  font-size: 25px;
 }
 
 nav > a:hover {
