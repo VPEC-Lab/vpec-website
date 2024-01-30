@@ -1,6 +1,6 @@
 ---
 name: Talia Frankel
-image: images/photo.jpg
+image: images/frankel-talia.jpg
 role: grad
 aliases:
 links:
