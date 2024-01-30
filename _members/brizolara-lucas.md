@@ -1,6 +1,6 @@
 ---
 name: Lucas Brizolara
-image: images/photo.jpg
+image: images/brizolara-lucas.jpg
 role: grad
 aliases:
 links:
