@@ -3,7 +3,7 @@ header {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 25px;
+  gap: 40px;
   padding: 20px;
   box-shadow: var(--shadow);
   position: sticky !important;
@@ -80,7 +80,7 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 nav > a:hover {
