@@ -11,7 +11,7 @@ header {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
 
@@ -27,9 +27,9 @@ header a {
   text-decoration: none;
 }
 
-.logo {
-  height: $logo;
-}
+// .logo {
+//   height: $logo;
+// }
 
 .title {
   display: flex;
@@ -93,7 +93,7 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 nav > a:hover {
