@@ -51,13 +51,6 @@ jobs:
               contents = `Visit ${replace} 🚀\n\n` + contents;
             writeFileSync(file, contents);
 
-      - name: Check matching glob patterns
-        id: glob
-        uses: tj-actions/glob@v19
-        with:
-          files: |
-            README.md
-
       - name: Check if readme changed
         id: changed
         uses: tj-actions/verify-changed-files@v17.1.0
