@@ -2,7 +2,7 @@
 title: Facilities
 nav:
   order: 5
-  tooltip: Lab pictures and tools
+  tooltip: Lab pictures and equipment
 ---
 
 # {% include icon.html icon="fa-solid fa-photo-film" %}Facilities
@@ -11,8 +11,8 @@ nav:
 
 {%
   include figure.html
-  image="images/IMG_2790.jpeg"
-  caption="The team enjoying a color-deficiency demo"
+  image="images/IMG_2857.jpeg"
+  caption="VPEC headquarters"
 %}
 
 {% endcapture %}
@@ -21,8 +21,8 @@ nav:
 
 {%
   include figure.html
-  image="images/IMG_2857.jpeg"
-  caption="VPEC headquarters"
+  image="images/IMG_4726.jpeg"
+  caption="The EEG Lab"
 %}
 
 {% endcapture %}
@@ -61,3 +61,38 @@ nav:
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
+
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/IMG_8700.jpeg"
+  caption="Another enlightening lab meeting"
+%}
+
+{%
+  include figure.html
+  image="images/IMG_8690.jpeg"
+  caption="Heading to the gym to get swole"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/IMG_2790.jpeg"
+  caption="The team enjoying a color-deficiency demo"
+%}
+
+{%
+  include figure.html
+  image="images/IMG_8305.jpeg"
+  caption="Heading to the gym to get swole"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
