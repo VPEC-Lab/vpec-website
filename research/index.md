@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-
 ## Areas of Research
 
 {% capture text %}
