@@ -598,6 +598,15 @@
         </a>
       
     
+      
+        <a
+          href="/vpec-lab.github.io/test/"
+          data-tooltip="Test"
+        >
+          Test
+        </a>
+      
+    
   </nav>
 </header>
 
