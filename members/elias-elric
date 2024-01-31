@@ -564,19 +564,19 @@
     
       
         <a
-          href="/vpec-lab.github.io/team/"
-          data-tooltip="About our team"
+          href="/vpec-lab.github.io/facilities/"
+          data-tooltip="Lab pictures and equipment"
         >
-          Team
+          Facilities
         </a>
       
     
       
         <a
-          href="/vpec-lab.github.io/facilities/"
-          data-tooltip="Lab pictures and equipment"
+          href="/vpec-lab.github.io/team/"
+          data-tooltip="About our team"
         >
-          Facilities
+          Team
         </a>
       
     
