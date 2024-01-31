@@ -39,9 +39,6 @@ collections:
   # generate page for each member
   members:
     output: true
-  # generate page for each post
-  posts:
-    output: true
 
 # jekyll plugins
 plugins:
