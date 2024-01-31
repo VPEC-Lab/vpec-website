@@ -9,17 +9,15 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: grad" %}
+{% include list.html data="members" component="portrait" filters="role: gres" %}
 {% include list.html data="members" component="portrait" filters="role: ug" %}
+{% include list.html data="members" component="portrait" filters="role: dog" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include list.html data="alumni" component="portrait" %}
+{% include list.html data="members" component="portrait" filters="role: alum" %}
 
 {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
