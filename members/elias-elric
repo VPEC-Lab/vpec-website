@@ -38,21 +38,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Elric Elias | VPEC Lab</title>
+<title>Elric Elias, PhD | VPEC Lab</title>
 
 <link rel="icon" href="/vpec-lab.github.io/images/icon.png">
 
-<meta name="title" content="Elric Elias">
+<meta name="title" content="Elric Elias, PhD">
 <meta name="description" content="Technical Consultant">
 
-<meta property="og:title" content="Elric Elias">
+<meta property="og:title" content="Elric Elias, PhD">
 <meta property="og:site_title" content="VPEC Lab">
 <meta property="og:description" content="Technical Consultant">
 <meta property="og:url" content="">
 <meta property="og:image" content="/vpec-lab.github.io/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Elric Elias">
+<meta property="twitter:title" content="Elric Elias, PhD">
 <meta property="twitter:description" content="Technical Consultant">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
@@ -68,9 +68,9 @@
     
       "@type": "WebSite",
     
-    "name": "Elric Elias",
+    "name": "Elric Elias, PhD",
     "description": "Technical Consultant",
-    "headline": "Elric Elias",
+    "headline": "Elric Elias, PhD",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/vpec-lab.github.io/images/icon.png" }
@@ -634,14 +634,14 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Elric Elias">
+  <a class="portrait" data-style="" aria-label="Elric Elias, PhD">
     <img src="/vpec-lab.github.io/images/elias-elric.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
         
           <span class="portrait-name">
-            Elric Elias
+            Elric Elias, PhD
           </span>
         
 
@@ -672,8 +672,8 @@
 
 
 <p class="center">
-  <a href="/vpec-lab.github.io/research/?search=%22Elric%20Elias%22%20">
-    Search for Elric Elias's papers on the Research page
+  <a href="/vpec-lab.github.io/research/?search=%22Elric%20Elias%22%20%22PhD%22%20">
+    Search for Elric Elias, PhD's papers on the Research page
   </a>
 </p>
 
@@ -681,8 +681,8 @@
 
 <!--
 <p class="center">
-  <a href="/vpec-lab.github.io/blog/?search=Elric%20Elias">
-    See Elric Elias's posts on the Blog page
+  <a href="/vpec-lab.github.io/blog/?search=Elric%20Elias,%20PhD">
+    See Elric Elias, PhD's posts on the Blog page
   </a>
 </p>
 -->
