@@ -5,9 +5,11 @@ nav:
 ---
 
 
-<!---# {% include icon.html icon="fa-solid fa-newspaper" %}Publications
+# {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
 ## All
+
+<!---
 
 {% include search-box.html %}
 
