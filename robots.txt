@@ -1,1 +1,1 @@
-Sitemap: /--trace/sitemap.xml
+Sitemap: /vpec-lab.github.io/sitemap.xml

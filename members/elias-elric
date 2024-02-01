@@ -40,7 +40,7 @@
 
 <title>Elric Elias, PhD | VPEC Lab</title>
 
-<link rel="icon" href="/--trace/images/icon.png">
+<link rel="icon" href="/vpec-lab.github.io/images/icon.png">
 
 <meta name="title" content="Elric Elias, PhD">
 <meta name="description" content="Technical Consultant">
@@ -49,14 +49,14 @@
 <meta property="og:site_title" content="VPEC Lab">
 <meta property="og:description" content="Technical Consultant">
 <meta property="og:url" content="">
-<meta property="og:image" content="/--trace/images/share.jpg">
+<meta property="og:image" content="/vpec-lab.github.io/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Elric Elias, PhD">
 <meta property="twitter:description" content="Technical Consultant">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:image" content="/--trace/images/share.jpg">
+<meta property="twitter:image" content="/vpec-lab.github.io/images/share.jpg">
 
 
   <meta property="og:type" content="website">
@@ -73,13 +73,13 @@
     "headline": "Elric Elias, PhD",
     "publisher": {
       "@type": "Organization",
-      "logo": { "@type": "ImageObject", "url": "/--trace/images/icon.png" }
+      "logo": { "@type": "ImageObject", "url": "/vpec-lab.github.io/images/icon.png" }
     },
     "url": ""
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/--trace/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="/vpec-lab.github.io/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -111,308 +111,308 @@
 
   
     <link
-      href="/--trace/_styles/-theme.css"
+      href="/vpec-lab.github.io/_styles/-theme.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/alert.css"
+      href="/vpec-lab.github.io/_styles/alert.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/all.css"
+      href="/vpec-lab.github.io/_styles/all.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/anchor.css"
+      href="/vpec-lab.github.io/_styles/anchor.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/background.css"
+      href="/vpec-lab.github.io/_styles/background.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/body.css"
+      href="/vpec-lab.github.io/_styles/body.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/bold.css"
+      href="/vpec-lab.github.io/_styles/bold.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/button.css"
+      href="/vpec-lab.github.io/_styles/button.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/card.css"
+      href="/vpec-lab.github.io/_styles/card.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/checkbox.css"
+      href="/vpec-lab.github.io/_styles/checkbox.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/citation.css"
+      href="/vpec-lab.github.io/_styles/citation.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/code.css"
+      href="/vpec-lab.github.io/_styles/code.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/cols.css"
+      href="/vpec-lab.github.io/_styles/cols.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/dark-toggle.css"
+      href="/vpec-lab.github.io/_styles/dark-toggle.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/feature.css"
+      href="/vpec-lab.github.io/_styles/feature.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/figure.css"
+      href="/vpec-lab.github.io/_styles/figure.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/float.css"
+      href="/vpec-lab.github.io/_styles/float.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/font.css"
+      href="/vpec-lab.github.io/_styles/font.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/footer.css"
+      href="/vpec-lab.github.io/_styles/footer.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/form.css"
+      href="/vpec-lab.github.io/_styles/form.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/grid.css"
+      href="/vpec-lab.github.io/_styles/grid.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/header.css"
+      href="/vpec-lab.github.io/_styles/header.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/heading.css"
+      href="/vpec-lab.github.io/_styles/heading.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/highlight.css"
+      href="/vpec-lab.github.io/_styles/highlight.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/icon.css"
+      href="/vpec-lab.github.io/_styles/icon.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/image.css"
+      href="/vpec-lab.github.io/_styles/image.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/link.css"
+      href="/vpec-lab.github.io/_styles/link.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/list.css"
+      href="/vpec-lab.github.io/_styles/list.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/main.css"
+      href="/vpec-lab.github.io/_styles/main.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/paragraph.css"
+      href="/vpec-lab.github.io/_styles/paragraph.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/portrait.css"
+      href="/vpec-lab.github.io/_styles/portrait.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/post-excerpt.css"
+      href="/vpec-lab.github.io/_styles/post-excerpt.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/post-info.css"
+      href="/vpec-lab.github.io/_styles/post-info.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/post-nav.css"
+      href="/vpec-lab.github.io/_styles/post-nav.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/quote.css"
+      href="/vpec-lab.github.io/_styles/quote.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/rule.css"
+      href="/vpec-lab.github.io/_styles/rule.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/search-box.css"
+      href="/vpec-lab.github.io/_styles/search-box.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/search-info.css"
+      href="/vpec-lab.github.io/_styles/search-info.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/section.css"
+      href="/vpec-lab.github.io/_styles/section.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/table.css"
+      href="/vpec-lab.github.io/_styles/table.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/tags.css"
+      href="/vpec-lab.github.io/_styles/tags.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/textbox.css"
+      href="/vpec-lab.github.io/_styles/textbox.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/tooltip.css"
+      href="/vpec-lab.github.io/_styles/tooltip.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/--trace/_styles/util.css"
+      href="/vpec-lab.github.io/_styles/util.css"
       rel="stylesheet"
     />
   
@@ -430,17 +430,17 @@
 <!-- include all js in scripts folder -->
 
 
-  <script src="/--trace/_scripts/anchors.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/anchors.js"></script>
 
-  <script src="/--trace/_scripts/dark-mode.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/dark-mode.js"></script>
 
-  <script src="/--trace/_scripts/fetch-tags.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/fetch-tags.js"></script>
 
-  <script src="/--trace/_scripts/search.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/search.js"></script>
 
-  <script src="/--trace/_scripts/site-search.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/site-search.js"></script>
 
-  <script src="/--trace/_scripts/tooltip.js"></script>
+  <script src="/vpec-lab.github.io/_scripts/tooltip.js"></script>
 
 
 </head>
@@ -456,13 +456,13 @@
 
 <header
   class="background"
-  style="--image: url('/--trace/images/background.jpg')"
+  style="--image: url('/vpec-lab.github.io/images/background.jpg')"
   
     data-dark="true"
   
   
 >
-  <a href="/--trace/" class="home">
+  <a href="/vpec-lab.github.io/" class="home">
     
       <span class="logo">
         
@@ -555,7 +555,7 @@
     
       
         <a
-          href="/--trace/research/"
+          href="/vpec-lab.github.io/research/"
           data-tooltip="Areas of research"
         >
           Research
@@ -564,7 +564,7 @@
     
       
         <a
-          href="/--trace/publications1/"
+          href="/vpec-lab.github.io/publications1/"
           data-tooltip="Published works"
         >
           Publications
@@ -573,7 +573,7 @@
     
       
         <a
-          href="/--trace/facilities/"
+          href="/vpec-lab.github.io/facilities/"
           data-tooltip="Lab pictures and equipment"
         >
           Facilities
@@ -582,7 +582,7 @@
     
       
         <a
-          href="/--trace/team/"
+          href="/vpec-lab.github.io/team/"
           data-tooltip="About our team"
         >
           Team
@@ -591,7 +591,7 @@
     
       
         <a
-          href="/--trace/outreach/"
+          href="/vpec-lab.github.io/outreach/"
           data-tooltip="Community outreach and events"
         >
           Outreach
@@ -600,7 +600,7 @@
     
       
         <a
-          href="/--trace/contact/"
+          href="/vpec-lab.github.io/contact/"
           data-tooltip="Email, address, and location"
         >
           Contact
@@ -644,7 +644,7 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Elric Elias, PhD">
-    <img src="/--trace/images/elias-elric.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/--trace/images/fallback.svg'; this.onerror = null;" />
+    <img src="/vpec-lab.github.io/images/elias-elric.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/vpec-lab.github.io/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
@@ -681,7 +681,7 @@
 
 
 <p class="center">
-  <a href="/--trace/research/?search=%22Elric%20Elias%22%20%22PhD%22%20">
+  <a href="/vpec-lab.github.io/research/?search=%22Elric%20Elias%22%20%22PhD%22%20">
     Search for Elric Elias, PhD's papers on the Research page
   </a>
 </p>
@@ -690,7 +690,7 @@
 
 <!--
 <p class="center">
-  <a href="/--trace/blog/?search=Elric%20Elias,%20PhD">
+  <a href="/vpec-lab.github.io/blog/?search=Elric%20Elias,%20PhD">
     See Elric Elias, PhD's posts on the Blog page
   </a>
 </p>
@@ -704,7 +704,7 @@
 
 <footer
   class="background"
-  style="--image: url('/--trace/images/background.jpg')"
+  style="--image: url('/vpec-lab.github.io/images/background.jpg')"
   
     data-dark="true"
   
