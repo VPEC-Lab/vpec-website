@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% capture col1 %}
-{% include figure.html image="images/frontier-hall.jpg" width="800px" %}
+{% include figure.html image="images/frontier-hall.jpg" width="1000px" %}
 {% endcapture %}
 
 {% capture col2 %}
