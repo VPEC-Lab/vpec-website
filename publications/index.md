@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-## All
-
 {% include search-box.html %}
 {% include search-info.html %}
 
 {% include section.html %}
 
 {% include citation.html lookup="doi:10.1037/xge0001025" %}
+
+{% include list.html data="citations" component="citation" %}
