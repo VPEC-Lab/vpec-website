@@ -15,16 +15,3 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
-- id: doi:10.1371/journal.pone.0275281
-  link: href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281"
-  
-- id: doi:10.1038/s41562-022-01390-y
-  link: https://osf.io/preprints/psyarxiv/rfgy3
-
-# - id: doi:10.1037/xge0001025
-#   link: https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2955&context=etd
-
-- id: doi:10.3758/s13414-017-1381-y
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-017-1381-y/MediaObjects/13414_2017_1381_Fig1_HTML.gif?as=webp
-  link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_app_2017.pdf
