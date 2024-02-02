@@ -9,11 +9,9 @@ nav:
 
 ## All
 
-{% include section.html %}
-
 {% include search-box.html %}
 {% include search-info.html %}
 
-{% include citation.html lookup="doi:10.1037/xge0001025" %}
+{% include section.html %}
 
-{% include list.html data="citations" component="citation" %}
+{% include citation.html lookup="doi:10.1037/xge0001025" %}
