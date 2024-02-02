@@ -89,12 +89,10 @@ nav:
 
 {%
   include figure.html
-  image="images/IMG_8305.jpeg"
-  caption="Heading to the gym to get swole"
+  image="images/frontier-hall.jpg"
+  caption="Located in Frontier Hall"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-[View PDF]({documents/mihalache_ds_2019.pdf)
