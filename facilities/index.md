@@ -77,12 +77,6 @@ nav:
   caption="Heading to the gym to get swole"
 %}
 
-{%
-  include figure.html
-  image="documents/0.1111/desc.12886.pdf"
-  caption=""
-%}
-
 {% endcapture %}
 
 {% capture col2 %}
@@ -102,3 +96,5 @@ nav:
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+[View PDF]({documents/0.1111/desc.12886.pdf)
