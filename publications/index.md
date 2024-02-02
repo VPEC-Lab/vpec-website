@@ -15,3 +15,5 @@ nav:
 {% include search-info.html %}
 
 {% include citation.html lookup="doi:10.1037/xge0001025" %}
+
+{% include list.html data="citations" component="citation" %}
