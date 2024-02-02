@@ -80,8 +80,11 @@
   date: '2019-07-25'
   link: https://doi.org/gtc928
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/mihalache_ds_2019.pdf
 - id: doi:10.1080/13506285.2020.1717706
   title: Averaging multiple facial expressions through subsampling
   authors:
@@ -103,8 +106,11 @@
   date: '2019-03-01'
   link: https://doi.org/gtc929
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/braun_visres_2019.pdf
 - id: doi:10.1016/j.ijhcs.2018.04.005
   title: "Role of embodiment and presence in human perception of robots\u2019 facial\
     \ cues"
@@ -118,8 +124,11 @@
   date: '2018-08-01'
   link: https://doi.org/gdt76p
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/psych-lab-vepc-mollahosseini_2018.pdf
 - id: doi:10.1016/j.concog.2018.03.005
   title: Perceptual averaging of facial expressions requires visual awareness and
     attention
@@ -131,8 +140,11 @@
   date: '2018-07-01'
   link: https://doi.org/gdp52h
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/elias_cc_2018.pdf
 - id: doi:10.1037/xge0000443
   title: 'Rapid visual perception of interracial crowds: Racial category learning
     from emotional segregation.'
@@ -145,8 +157,11 @@
   date: '2018-05-01'
   link: https://doi.org/gdjrn9
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/lamer_jepg_2018.pdf
 - id: doi:10.1037/xge0000339
   title: Spatial cues influence the visual perception of gender.
   authors:
@@ -157,8 +172,11 @@
   date: '2017-09-01'
   link: https://doi.org/gch7qx
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/lamer_jepg_2017.pdf
 - id: doi:10.1177/0956797616678188
   title: Ensemble Perception of Dynamic Emotional Groups
   authors:
@@ -169,8 +187,11 @@
   date: '2016-12-30'
   link: https://doi.org/f9vhzv
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/elias_ps_2017.pdf
 - id: doi:10.1016/j.visres.2016.10.014
   title: 'The center of attention: Metamers, sensitivity, and bias in the emergent
     perception of gaze'
@@ -181,8 +202,11 @@
   date: '2017-02-01'
   link: https://doi.org/f9rn9m
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_vr_2017.pdf
 - id: doi:10.1111/desc.12239
   title: "Ensemble perception of size in 4\u20135\u2010year\u2010old children"
   authors:
@@ -194,8 +218,11 @@
   date: '2014-11-28'
   link: https://doi.org/f7d6qz
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_ds_2015.pdf
 - id: doi:10.1177/0956797614544510
   title: Perceiving Crowd Attention
   authors:
@@ -205,8 +232,11 @@
   date: '2014-08-14'
   link: https://doi.org/f6m8vb
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_ps_2014.pdf
 - id: doi:10.1177/0956797612473759
   title: Humans Use Summary Statistics to Perceive Auditory Sequences
   authors:
@@ -219,8 +249,11 @@
   date: '2013-06-12'
   link: https://doi.org/f466vz
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/VPEC-Humans-Use-Summary-Statistics-to-Perceive-Auditory-Sequences.pdf
 - id: doi:10.1037/a0028712
   title: 'Perceiving group behavior: Sensitive ensemble coding mechanisms for biological
     motion of human crowds.'
@@ -232,8 +265,11 @@
   date: '2013-04-01'
   link: https://doi.org/f4r9j2
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_jephpp_2013.pdf
 - id: doi:10.1037/a0029193
   title: Detecting and categorizing fleeting emotions in faces.
   authors:
@@ -245,8 +281,11 @@
   date: '2013-02-01'
   link: https://doi.org/f4ntf4
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_emo_2012.pdf
 - id: doi:10.1037/a0031714
   title: "Sensitive perception of a person\u2019s direction of walking by 4-year-old\
     \ children."
@@ -259,8 +298,11 @@
   date: '2013-01-01'
   link: https://doi.org/f5gw9r
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_dp_2013.pdf
 - id: doi:10.1016/j.cognition.2012.04.009
   title: Sounds exaggerate visual shape
   authors:
@@ -285,8 +327,11 @@
   date: '2012-07-01'
   link: https://doi.org/f35tr2
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_vr_2012.pdf
 - id: doi:10.3758/s13423-011-0198-2
   title: Laughter exaggerates happy and sad faces depending on visual context
   authors:
@@ -298,8 +343,11 @@
   date: '2012-01-04'
   link: https://doi.org/fxxjmj
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sherman_pbr_2012.pdf
 - id: doi:10.1167/11.11.742
   title: 'Seeing the direction of a crowd: Ensemble coding of biological motion'
   authors:
@@ -323,8 +371,11 @@
   date: '2011-06-20'
   link: https://doi.org/d8cmtv
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_ps_2011.pdf
 - id: doi:10.1152/jn.00061.2010
   title: Internal curvature signal and noise in low- and high-level vision
   authors:
@@ -336,8 +387,11 @@
   date: '2011-03-01'
   link: https://doi.org/bsr83q
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_jn_2011.pdf
 - id: doi:10.1167/11.1.16
   title: Simultaneous shape repulsion and global assimilation in the perception of
     aspect ratio
@@ -349,8 +403,11 @@
   date: '2011-01-19'
   link: https://doi.org/dkzp4s
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_jov_2011.pdf
 - id: doi:10.1016/j.concog.2009.07.011
   title: Long-lasting effects of subliminal affective priming from facial expressions
   authors:
@@ -362,8 +419,11 @@
   date: '2009-12-01'
   link: https://doi.org/d5r9hf
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_cc_2009.pdf
 - id: doi:10.1167/9.3.2
   title: Within-hemifield perceptual averaging of facial expressions predicted by
     neural averaging
@@ -376,74 +436,11 @@
   date: '2009-03-01'
   link: https://doi.org/dt2gq9
   orcid: 0000-0002-5602-3215
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  plugin: sources.py
+  file: sources.yaml
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0275281
-  title: 'Gaze perception from head and pupil rotations in 2D and 3D: Typical development
-    and the impact of autism spectrum disorder'
-  authors:
-  - Diana Mihalache
-  - Peter Sokol-Hessner
-  - Huanghao Feng
-  - Farzaneh Askari
-  - Nuri Reyes
-  - Eric J. Moody
-  - Mohammad H. Mahoor
-  - Timothy D. Sweeny
-  publisher: PLOS ONE
-  date: '2022-10-27'
-  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41562-022-01390-y
-  title: Amplification in the evaluation of multiple emotional expressions over time
-  authors:
-  - Amit Goldenberg
-  - "Jonas Sch\xF6ne"
-  - Zi Huang
-  - Timothy D. Sweeny
-  - Desmond C. Ong
-  - Timothy F. Brady
-  - Maria M. Robinson
-  - David Levari
-  - Jamil Zaki
-  - James J. Gross
-  publisher: Nature Human Behaviour
-  date: '2022-06-27'
-  link: https://osf.io/preprints/psyarxiv/rfgy3
-  plugin: sources.py
-  file: sources.yaml
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweenyjov2009.pdf
 - id: doi:10.3758/s13414-017-1381-y
   title: Object-substitution masking weakens but does not eliminate shape interactions
   authors:
@@ -453,7 +450,9 @@
   - Lauren Padama
   publisher: Attention, Perception, &amp; Psychophysics
   date: '2017-07-17'
-  link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_app_2017.pdf
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-017-1381-y/MediaObjects/13414_2017_1381_Fig1_HTML.gif?as=webp
+  link: https://doi.org/gbzdwf
+  buttons:
+  - type: pdf
+    link: https://liberalarts.du.edu/sites/default/files/2021-04/sweeny_app_2017.pdf
   plugin: sources.py
   file: sources.yaml
