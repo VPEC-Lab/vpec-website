@@ -423,7 +423,7 @@
   - Timothy D. Sweeny
   publisher: PLOS ONE
   date: '2022-10-27'
-  link: href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281"
+  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275281
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41562-022-01390-y
