@@ -12,3 +12,5 @@ Our primary goal is to understand how basic neural and cognitive mechanisms shap
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
+
+The VPEC Lab is part of the [Affective, Social, and Cognitive Area](https://liberalarts.du.edu/academics-admissions/programs-gr/phd-affective-social-cognitive-psychology) in the [Department of Psychology](https://liberalarts.du.edu/psychology) at the [University of Denver](https://www.du.edu/). We operate with the support of the NSF (Award 2141313) and the NIH (Award R15HD108690).
