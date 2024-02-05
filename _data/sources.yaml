@@ -1,3 +1,43 @@
+- id: doi:10.1038/s41562-022-01390-y
+  buttons:
+    - type: pdf
+      link: documents/Goldenberg_2022.pdf
+
+- id: doi:10.1371/journal.pone.0275281
+  buttons:
+    - type: pdf
+      link: documents/Mihalache_2022.pdf
+
+- id: doi:10.1037/xge0001025
+  buttons:
+    - type: pdf
+      link: documents/Mihalache_2021.pdf
+
+- id: doi:10.1177/0956797620970561
+  buttons:
+    - type: pdf
+      link: documents/Goldenberg_2021.pdf
+
+- id: doi:10.3758/s13414-020-02109-9
+  buttons:
+    - type: pdf
+      link: documents/Sweeny_APP_2020.pdf
+
+- id: doi:10.1037/xhp0000733
+  buttons:
+    - type: pdf
+      link: documents/Elias_2020.pdf
+
+- id: doi:10.1037/xge0000651
+  buttons:
+    - type: pdf
+      link: documents/Goldenberg_2020.pdf
+
+- id: doi:10.1080/13506285.2020.1717706
+  buttons:
+    - type: pdf
+      link: documents/Ji_2020.pdf
+
 - id: doi:10.1111/desc.12886
   buttons:
     - type: pdf
