@@ -1,7 +1,7 @@
 ---
 name: Lili
 image: 
-role: ug
+role: grad
 aliases:
 links:
 ---
