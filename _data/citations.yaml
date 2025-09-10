@@ -556,3 +556,17 @@
   buttons:
   - type: pdf
     link: https://liberalarts.du.edu/sites/default/files/2021-04/sweenyjov2009.pdf
+- id: doi:10.1080/02699931.2025.2506667
+  title: Biased judgments of emotion are resistant to changes in the prevalence of
+    anger
+  authors:
+  - Delaney McDonagh
+  - Timothy Sweeny
+  publisher: Cognition and Emotion
+  date: '2025-05-26'
+  link: https://doi.org/g928gc
+  buttons:
+  - type: pdf
+    link: documents/McDonagh_2025.pdf
+  plugin: sources.py
+  file: sources.yaml
