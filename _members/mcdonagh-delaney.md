@@ -1,7 +1,7 @@
 ---
 name: Delaney McDonagh
 image: images/mcdonagh-delaney.jpg
-role: 
+role: alum
 desciption: Neuropsychology Intern @ Primary Children's Hospital, Salt Lake City, UT
 aliases:
 links:
