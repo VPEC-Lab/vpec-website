@@ -1,6 +1,6 @@
 ---
 name: Henry
-image: images/IMG_8305.jpeg
+image: images/Henry.jpeg
 role: dog
 aliases:
 links:
