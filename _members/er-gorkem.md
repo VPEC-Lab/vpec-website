@@ -1,7 +1,7 @@
 ---
 name: Gorkem Er
 image: images/er-gorkem.jpg
-role: grad
+role: alum
 aliases:
 links:
 ---
