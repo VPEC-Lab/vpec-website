@@ -1,7 +1,7 @@
 ---
 name: Simon Ruland
 image: images/ruland-simon.jpg
-role: ug
+role: gres
 aliases:
 links:
 ---
