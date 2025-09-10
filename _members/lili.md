@@ -1,5 +1,5 @@
 ---
-name: Lili
+name: Lili Hauser
 image: 
 role: grad
 aliases:
