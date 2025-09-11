@@ -1,6 +1,6 @@
 ---
 name: Lili Hauser
-image: 
+image: hauser-lili.png
 role: grad
 aliases:
 links:
